@@ -1,0 +1,12 @@
+C:\Users\romanletun@fintech.ru\C#\EAConnect\EAConnect\bin\Debug\EAReport.exe
+C:\Users\romanletun@fintech.ru\C#\EAConnect\EAConnect\bin\Debug\EAReport.pdb
+C:\Users\romanletun@fintech.ru\C#\EAConnect\EAConnect\obj\x86\Debug\EAReport.exe
+C:\Users\romanletun@fintech.ru\C#\EAConnect\EAConnect\obj\x86\Debug\EAReport.pdb
+C:\Users\romanletun@fintech.ru\C#\EAReport\EAConnect\obj\x86\Debug\EAReport.exe
+C:\Users\romanletun@fintech.ru\C#\EAReport\EAConnect\obj\x86\Debug\EAReport.pdb
+C:\Cascade\branches\romanletun\EAReport\EAConnect\obj\x86\Debug\EAReport.exe
+C:\Cascade\branches\romanletun\EAReport\EAConnect\obj\x86\Debug\EAReport.pdb
+C:\Cascade\branches\romanletun\EAReport\EAConnect\bin\Debug\EAReport.exe
+C:\Cascade\branches\romanletun\EAReport\EAConnect\bin\Debug\EAReport.pdb
+C:\Cascade\branches\romanletun\EAReport\EAConnect\obj\x86\Debug\EAReport.csprojResolveAssemblyReference.cache
+C:\Cascade\branches\romanletun\EAReport\EAConnect\obj\x86\Debug\EAReport.csproj.ResolveComReference.cache

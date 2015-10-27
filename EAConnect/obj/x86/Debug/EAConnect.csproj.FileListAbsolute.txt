@@ -1,0 +1,5 @@
+C:\Users\romanletun@fintech.ru\C#\EAConnect\EAConnect\bin\Debug\EAConnect.exe
+C:\Users\romanletun@fintech.ru\C#\EAConnect\EAConnect\bin\Debug\EAConnect.pdb
+C:\Users\romanletun@fintech.ru\C#\EAConnect\EAConnect\obj\x86\Debug\EAConnect.exe
+C:\Users\romanletun@fintech.ru\C#\EAConnect\EAConnect\obj\x86\Debug\EAConnect.pdb
+C:\Users\romanletun@fintech.ru\C#\EAConnect\EAConnect\obj\x86\Debug\EAConnect.csprojResolveAssemblyReference.cache

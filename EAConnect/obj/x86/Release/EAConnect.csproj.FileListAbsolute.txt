@@ -1,0 +1,4 @@
+C:\Users\romanletun@fintech.ru\C#\EAConnect\EAConnect\bin\Release\EAConnect.exe
+C:\Users\romanletun@fintech.ru\C#\EAConnect\EAConnect\bin\Release\EAConnect.pdb
+C:\Users\romanletun@fintech.ru\C#\EAConnect\EAConnect\obj\x86\Release\EAConnect.exe
+C:\Users\romanletun@fintech.ru\C#\EAConnect\EAConnect\obj\x86\Release\EAConnect.pdb
