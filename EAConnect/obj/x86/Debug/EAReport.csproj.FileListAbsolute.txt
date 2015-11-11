@@ -8,5 +8,4 @@ C:\Cascade\branches\romanletun\EAReport\EAConnect\obj\x86\Debug\EAReport.exe
 C:\Cascade\branches\romanletun\EAReport\EAConnect\obj\x86\Debug\EAReport.pdb
 C:\Cascade\branches\romanletun\EAReport\EAConnect\bin\Debug\EAReport.exe
 C:\Cascade\branches\romanletun\EAReport\EAConnect\bin\Debug\EAReport.pdb
-C:\Cascade\branches\romanletun\EAReport\EAConnect\obj\x86\Debug\EAReport.csprojResolveAssemblyReference.cache
 C:\Cascade\branches\romanletun\EAReport\EAConnect\obj\x86\Debug\EAReport.csproj.ResolveComReference.cache
